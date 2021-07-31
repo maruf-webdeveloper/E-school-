@@ -15,7 +15,8 @@ p{
 .box{
     border-radius: 10px;
     background-color: #F8FFFB;
-    border: 5px solid black;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
     padding: 50px;
 }
 .box h2{
