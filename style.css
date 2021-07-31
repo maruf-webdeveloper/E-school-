@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+p{
+    font-size: 16px;
+    font-weight: 400px;
+}
+.all-section-padding{
+    padding-top: 80px;
+}
+.box{
+    border-radius: 10px;
+    background-color: #F8FFFB;
+    border: 5px solid black;
+    padding: 50px;
+}
+.box h2{
+    font-size: 24px;
+    font-weight: 500 ;
+    color: #413960;
+    padding-top: 30px;
+    text-align: center;
+}
+.box p{
+    text-align: center;
+}
+.box img{
+    padding-left: 30px;
+}
+.header-button{
+    padding: 12px 36px;
+    background-color: #21B573;
+    cursor: pointer;
+    border: none;
+    border-radius: 33px;
+    color:white;
+}
+.online-course h5{
+    font-size: 24px;
+    font-weight: 500;
+    color: #413960;
+}
+.testimonial-section{
+    margin-top: 100px;
+}
+.footer-section{
+    color: White;
+    background-color: #282531;
+    margin-top: 100px;
+}
+.card-boder{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
